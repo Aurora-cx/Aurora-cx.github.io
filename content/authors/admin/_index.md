@@ -6,8 +6,8 @@ title: Chenxi Wang 王晨曦
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenxi
+last_name: Wang
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MSc in NLP
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: MBZUAI
     url: https://openai.com/
 
 # Social network links
