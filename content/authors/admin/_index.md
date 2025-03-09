@@ -3,7 +3,7 @@
 title: Chenxi Wang 王晨曦
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Chenxi
@@ -11,7 +11,7 @@ last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔮
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: MSc in NLP
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: MBZUAI
-    url: https://openai.com/
+    url: https://mbzuai.ac.ae/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
