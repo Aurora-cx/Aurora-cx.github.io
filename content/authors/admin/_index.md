@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Aurora-cx
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/chenxi-wang-57a5b2323/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Gtj8924AAAAJ&hl=en
   # - icon: academicons/orcid
@@ -73,10 +73,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science
+    institution: Xi'an Jiaotong University
+    date_start: 2019-09-01
+    date_end: 2023-07-01
     summary: |
       GPA: 3.4/4.0
       
