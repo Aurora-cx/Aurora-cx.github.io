@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Computer Science
+  - area: BSc in Computer Science
     institution: Xi'an Jiaotong University
     date_start: 2019-09-01
     date_end: 2023-07-01
