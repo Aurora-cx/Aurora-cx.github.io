@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: reflection
     content:
-      title: Teaching
+      title: Reflections
       filters:
         folders:
-          - teaching
+          - reflection
     design:
       view: article-grid
       columns: 2
