@@ -27,4 +27,4 @@ main:
     weight: 40
   - name: Reflections
     url: reflections/
-    weight: 40
+    weight: 20
