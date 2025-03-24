@@ -11,7 +11,7 @@ cascade:
 
 sections:
   - block: collection
-    id: reflection
+    id: reflections
     content:
       title: Reflections
       filters:
