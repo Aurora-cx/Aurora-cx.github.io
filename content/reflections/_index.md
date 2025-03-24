@@ -16,7 +16,7 @@ sections:
       title: Reflections
       filters:
         folders:
-          - reflection
+          - reflections
     design:
       view: article-grid
       columns: 2
