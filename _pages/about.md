@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenxi Wang"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,21 +33,26 @@ Prior to MBZUAI, I received my Bachelor's degree in **[your undergraduate major]
 
 <span id="publications"></span>
 
-## 📝 Publications
+## 📝 Recent Publications
 
-### Conference Papers
+### First Author
 
-**[Paper Title]**  
-**Chenxi Wang**, [Co-authors]  
-*[Conference Name (Abbreviation) Year]*  
-\[[Paper](link)\] \[[Code](link)\] \[[Slides](link)\]
+**Do LLMs" Feel"? Emotion Circuits Discovery and Control**  
+**Chenxi Wang**, Yixuan Zhang, Ruiji Yu, ..., Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen  
+*arXiv preprint 2510.11328*  
+\[[Paper](https://arxiv.org/abs/2510.11328)\] \[[Code](https://github.com/Aurora-cx/EmotionCircuits-LLM)\]]
 
-**[Paper Title 2]**  
-[Authors including you]  
-*[Conference Name Year]*  
-\[[Paper](link)\]
+**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**  
+Chenxi Wang, Yixuan Zhang, Lang Gao, Zixiang Xu, Zirui Song, Yanbo Wang, Xiuying Chen
+*EMNLP Findings 2025*  
+\[[Paper](https://arxiv.org/abs/2506.16151)\]
 
-### Preprints & Under Review
+**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**  
+Chenxi Wang, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
+*ACL Findings 2025*  
+\[[Paper](https://arxiv.org/abs/2503.01714)\]
+
+### Others
 
 **[Paper Title]**  
 [Authors]  
