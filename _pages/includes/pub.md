@@ -1,7 +1,17 @@
 <span class='anchor' id='publications'></span>
-
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/AnomalyGen.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies**](https://arxiv.org/abs/2411.00781) ![Static Badge](https://img.shields.io/badge/NAACL'2025-red)
+
+**Zirui Song\***, Guangxian Ouyang\*, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, **Xiuying Chen**
+(\*: first co-authors)
+
+</div></div>
+
+---
 ## 🌟 First-/Co-first-author publications
 
 **Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**  
