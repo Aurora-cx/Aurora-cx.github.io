@@ -5,7 +5,8 @@
 - *Aug 2025*: One first-author paper accepted to **EMNLP 2025**.  
 - *Aug 2025*: 🎤 Poster presentation at ACL 2025 (Vienna).
 - *Jun–Aug 2025*: Research internship at Peking University (Beijing)🇨🇳.
-- *May 2025*: One first-author paper accepted to **ACL 2025**.  
+- *May 2025*: One first-author paper accepted to **ACL 2025**. 
+- *Jan 2025*: 🎤 Poster presentation at COLING 2025 (Abu Dhabi). 
 - *Nov 2024*: One first-author paper accepted to **COLING 2025**.  
 - *Sep 2024*: 🎉 My very first research paper accepted to **NeurIPS 2024.**
 - *Aug 2024*: 🎓 Started my M.Sc. in NLP at **MBZUAI**.
