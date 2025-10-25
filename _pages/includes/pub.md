@@ -1,7 +1,7 @@
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-### 🌟 First-/Co-first-author publications
+## 🌟 First-/Co-first-author publications
 
 I value making my work reproducible and open 🤗.
 
