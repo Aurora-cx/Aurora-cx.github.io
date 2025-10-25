@@ -405,8 +405,8 @@
 .paper-box {
   display: flex;
   margin-bottom: 2em;
-  border: 1px solid var(--global-border-color);
-  border-radius: 8px;
+  border: none;
+  border-radius: 0;
   overflow: hidden;
   background-color: var(--global-bg-color);
   
