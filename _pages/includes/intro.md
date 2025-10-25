@@ -1,12 +1,9 @@
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
+Hi! I’m Chenxi Wang (Aurora), a second-year M.Sc. student in NLP at MBZUAI, supervised by [Prof. Xiuying Chen](https://iriscxy.github.io/). I earned my B.Eng. in Computer Science from Xi’an Jiaotong University, where my undergraduate thesis ranked first in my cohort.
 
-Hi! I am a Master's student in the Natural Language Processing Department at **Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**, supervised by [Prof. Xiuying Chen](https://iriscxy.github.io/). 
+My research focuses on human-centered AI. Pretrained large language models encode rich internal knowledge and behaviors that are not actively invoked under normal inference. I use an **interpretability-first post-training approach** to **“awaken”** these latent capabilities at inference, drawing on interpretability techniques such as circuit discovery & control, subspace analysis, steering vectors, activation patching, and sparse autoencoders, without additional large-scale pretraining. 
 
-My research interests focus on **Large Language Models, AI Safety, and Cognitive Science in AI**. I am particularly interested in understanding how language models process emotions, reason across languages, and handle noisy inputs.
+My current work targets intelligence that meets human emotional needs, aiming to build explainable, controllable, and personalized emotional-support AI that can evolve with user needs. I am also open to thoughtful discussions about dependency risk. (Also open to casual chats about philosophy of mind and what makes AI feel more human.)
 
-Prior to MBZUAI, I received my Bachelor's degree in **[your undergraduate major]** from **[your undergraduate university]**.
-
-📧 Email: [chenxi.wang@mbzuai.ac.ae](mailto:chenxi.wang@mbzuai.ac.ae)
 
