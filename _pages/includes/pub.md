@@ -1,7 +1,7 @@
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 ## 🌟 First-/Co-first-author publications
-I value making my work reproducible and open 🤗.
+I value making my work reproducible and open (very much) 🤗.
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
