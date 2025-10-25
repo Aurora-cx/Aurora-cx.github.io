@@ -94,7 +94,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 230px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -134,6 +134,7 @@
 
 .sidebar .author__desktop {
   display: none;
+  font-size: $type-size-4;
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -150,12 +151,12 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
   }
 }
 
