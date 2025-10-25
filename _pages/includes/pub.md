@@ -3,7 +3,7 @@
 ---
 ## 🌟 First-/Co-first-author publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Do LLMs" Feel"? Emotion Circuits Discovery and ControlCCF None**](https://arxiv.org/abs/2411.00781) ![Static Badge](https://img.shields.io/badge/arXiv-red)
