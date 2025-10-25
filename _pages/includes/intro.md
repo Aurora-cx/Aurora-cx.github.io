@@ -7,5 +7,5 @@ My research focuses on human-centered AI. Pretrained LLMs encode rich knowledge 
 
 I welcome thoughtful discussions on dependency risk, and I’m happy to chat about philosophy of mind and what makes AI feel more human :)
 
-<p style="color: #FF6B35;">**I am actively seeking PhD positions for Fall 2026. Please see my [CV] and feel free to get in touch.**</p>
+<p style="color: #FF6B35;">**Actively seeking PhD positions for Fall 2026. Please see my [CV] and feel free to get in touch.**</p>
 
