@@ -5,7 +5,7 @@ I value making my work reproducible and open (very much) 🤗.
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Do LLMs" Feel"? Emotion Circuits Discovery and Control**](https://arxiv.org/abs/2510.11328) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.11328&color=grey&labelColor=green)
+[**Do LLMs "Feel"? Emotion Circuits Discovery and Control**](https://arxiv.org/abs/2510.11328) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.11328&color=grey&labelColor=green)
 
 **Chenxi Wang**, Yixuan Zhang, Ruiji Yu, Kaiyang Wan, Mingzhe Li, Dequan Yang, Lei Cheng, Zongfang Liu, Yang Xu, Ziyang Ma, Longwei Xu, Peng Li, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen†
 

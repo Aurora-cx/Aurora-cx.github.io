@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Chenxi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "MSc student in NLP at MBZUAI"
+  bio              : "MBZUAI"
   location         : "Abu Dhabi, UAE"
-  employer         : "MBZUAI"
+  # employer         : "MBZUAI"
   uri              : # URL
   email            : "chenxi.wang@mbzuai.ac.ae" 
 
