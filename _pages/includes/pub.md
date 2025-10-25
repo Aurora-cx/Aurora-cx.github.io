@@ -1,7 +1,7 @@
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 ---
-## 🌟 First-/Co-first-author publications
+### 🌟 First-/Co-first-author publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/AnomalyGen.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
