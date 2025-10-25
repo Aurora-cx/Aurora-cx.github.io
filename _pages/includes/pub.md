@@ -61,12 +61,10 @@ Wei Liu\*, **Chenxi Wang\***, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, Zhu
 ## 🌈 Recent Co-authored publications
 
 [**DyFlow: Dynamic Workflow Framework for Agentic Reasoning**](https://arxiv.org/abs/2509.26062) ![Static Badge](https://img.shields.io/static/v1?label=NeurIPS&message=2025&color=grey&labelColor=purple)
+
 Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi Wang**, Xiangru Tang, Yue Zhao, Arman Cohan, Xiangliang Zhang, Xiuying Chen†
 
 
-
-**Zirui Song\***, Guangxian Ouyang\*, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, **Xiuying Chen**
-(\*: first co-authors)
 
 # 📝 Recent Publications 
 
