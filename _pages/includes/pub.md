@@ -17,7 +17,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://arxiv.org/abs/2506.16151) ![Static Badge](https://img.shields.io/badge/EMNLP_Findings-2025-yellow)
+[**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://arxiv.org/abs/2506.16151) ![Static Badge](https://img.shields.io/badge/EMNLP-2025-yellow)
 
 **Chenxi Wang**, Yixuan Zhang, Lang Gao, Zixiang Xu, Zirui Song, Yanbo Wang, Xiuying Chen
 
@@ -28,7 +28,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL_Findings-2025-red)
+[**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL-2025-red)
 
 **Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
 
