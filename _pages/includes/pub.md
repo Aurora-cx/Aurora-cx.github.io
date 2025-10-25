@@ -6,10 +6,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Do LLMs" Feel"? Emotion Circuits Discovery and ControlCCF None**](https://arxiv.org/abs/2411.00781) ![Static Badge](https://img.shields.io/badge/arXiv-red)
+[**Do LLMs" Feel"? Emotion Circuits Discovery and Control**](https://arxiv.org/abs/2510.11328) ![Static Badge](https://img.shields.io/badge/arXiv-red)
 
-**Zirui Song\***, Guangxian Ouyang\*, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, **Xiuying Chen**
-(\*: first co-authors)
+**Chenxi Wang**, Yixuan Zhang, Ruiji Yu, Kaiyang Wan, Mingzhe Li, Dequan Yang, Lei Cheng, Zongfang Liu, Yang Xu, Ziyang Ma, Longwei Xu, Peng Li, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen
+
+\[[Code](https://github.com/Aurora-cx/EmotionCircuits-LLM)\]
 
 </div></div>
 
@@ -30,7 +31,8 @@
 *arXiv preprint arXiv:2510.11328, 2024*  
 \[[Paper](https://arxiv.org/abs/2510.11328)\] \[[Code](https://github.com/Aurora-cx/EmotionCircuits-LLM)\]
 
-
+**Zirui Song\***, Guangxian Ouyang\*, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, **Xiuying Chen**
+(\*: first co-authors)
 
 # 📝 Recent Publications 
 
