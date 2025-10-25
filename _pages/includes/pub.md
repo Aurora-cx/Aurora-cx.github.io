@@ -16,7 +16,7 @@ I value making my work reproducible and open 🤗.
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/babel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://arxiv.org/abs/2506.16151) ![Static Badge](https://img.shields.io/badge/EMNLP-2025-yellow)
