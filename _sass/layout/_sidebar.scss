@@ -129,12 +129,12 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
 }
 
 .sidebar .author__desktop {
   display: none;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -156,7 +156,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 }
 
@@ -248,7 +248,7 @@
 
   li {
     white-space: nowrap;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 
   a {
@@ -258,7 +258,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     text-decoration: none;
 
     &:hover {
