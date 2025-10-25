@@ -444,14 +444,6 @@
   .paper-box-text {
     max-width: 100%;
     order: 1;
-    
-    a {
-      text-decoration: none;
-      
-      &:hover {
-        text-decoration: none;
-      }
-    }
   }
   
   @include breakpoint($medium) {

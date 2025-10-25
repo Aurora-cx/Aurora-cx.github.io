@@ -1,7 +1,7 @@
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-## 🌟 First-/Co-first-author publications
+### 🌟 First-/Co-first-author publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -29,6 +29,28 @@
 <div class='paper-box-text' markdown="1">
 
 [**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL-2025-red)
+
+**Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
+
+\[[Code](https://github.com/Aurora-cx/TypoLLM)\]
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL-2025-red)
+
+**Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
+
+\[[Code](https://github.com/Aurora-cx/TypoLLM)\]
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Decoding echo chambers: Llm-powered simulations revealing polarization in social networksPreprint**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL-2025-red)
 
 **Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
 
