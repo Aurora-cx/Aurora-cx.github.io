@@ -1,6 +1,6 @@
 <span class='anchor' id='publications'></span>
 # 📝 Publications
----
+
 ## 🌟 First-/Co-first-author publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
