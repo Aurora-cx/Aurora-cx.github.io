@@ -129,12 +129,11 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 .sidebar .author__desktop {
   display: none;
-  font-size: $type-size-6 !important;
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -151,12 +150,10 @@
 
 .author__bio {
   margin: 0;
-  font-size: $type-size-6;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: $type-size-6;
   }
 }
 
@@ -249,10 +246,6 @@
   li {
     white-space: nowrap;
   }
-  
-  li, a {
-    font-size: $type-size-6;
-  }
 
   a {
     display: block;
@@ -261,6 +254,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
+    font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
