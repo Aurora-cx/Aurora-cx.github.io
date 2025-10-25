@@ -4,7 +4,7 @@ Hi! I'm Chenxi Wang (Aurora), a second-year M.Sc. student in NLP at MBZUAI, supe
 My research focuses on human-centered AI. I take an **interpretability-first post-training** approach to **“awaken”** latent knowledge and behaviors in pretrained LLMs that are not actively invoked under normal inference. I use interpretability techniques such as circuit discovery and control, subspace analysis, steering vectors, activation patching, and sparse autoencoders, **without additional large-scale pretraining**.
 My current work explores **AI that meets human emotional needs**, building explainable, controllable, and personalized emotional-support AI that can evolve with user needs.
 
-I welcome thoughtful discussions on dependency risk, and I’m happy to chat about philosophy of mind and what makes AI feel more human:)
+I welcome thoughtful discussions on dependency risk, and I’m happy to chat about philosophy of mind and what makes AI feel more human :)
 
 <p style="color: #FF6B35;">I am actively seeking PhD positions for Fall 2026. Please see my [CV] and feel free to get in touch.</p>
 

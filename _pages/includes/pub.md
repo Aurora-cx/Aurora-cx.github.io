@@ -14,15 +14,30 @@
 
 </div></div>
 
-**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**  
-**Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen  
-*ACL Findings 2025*  
-\[[Paper](https://arxiv.org/abs/2503.01714)\]
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**  
-**Chenxi Wang**, Yixuan Zhang, Lang Gao, Zixiang Xu, Zirui Song, Yanbo Wang, Xiuying Chen  
-*EMNLP Findings 2025*  
-\[[Paper](https://arxiv.org/abs/2506.16151)\]
+[**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://arxiv.org/abs/2506.16151) ![Static Badge](https://img.shields.io/badge/EMNLP_Findings-2025-yellow)
+
+**Chenxi Wang**, Yixuan Zhang, Lang Gao, Zixiang Xu, Zirui Song, Yanbo Wang, Xiuying Chen
+
+\[[Code](https://github.com/Aurora-cx/BabelLLM_public)\]
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/files/emo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Word Form Matters: LLMs' Semantic Reconstruction under Typoglycemia**](https://aclanthology.org/2025.findings-acl.866/) ![Static Badge](https://img.shields.io/badge/ACL_Findings-2025-red)
+
+**Chenxi Wang**, Tianle Gu, Zhongyu Wei, Lang Gao, Zirui Song, Xiuying Chen
+
+\[[Code](https://github.com/Aurora-cx/TypoLLM)\]
+
+</div></div>
+
+
+
 
 ## 📑 Preprints
 
