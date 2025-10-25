@@ -58,14 +58,12 @@ Wei Liu\*, **Chenxi Wang\***, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, Zhu
 </div></div>
 
 
+## 🌈 Recent Co-authored publications
+
+[**DyFlow: Dynamic Workflow Framework for Agentic Reasoning**](https://arxiv.org/abs/2509.26062) ![Static Badge](https://img.shields.io/static/v1?label=NeurIPS&message=2025&color=grey&labelColor=purple)
+Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi Wang**, Xiangru Tang, Yue Zhao, Arman Cohan, Xiangliang Zhang, Xiuying Chen†
 
 
-## 📑 Preprints
-
-**Do LLMs "Feel"? Emotion Circuits Discovery and Control**  
-**Chenxi Wang**, Yixuan Zhang, Ruiji Yu, Kaiyang Wan, Mingzhe Li, Dequan Yang, Lei Cheng, Zongfang Liu, Yang Xu, Ziyang Ma, Longwei Xu, Peng Li, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen  
-*arXiv preprint arXiv:2510.11328, 2024*  
-\[[Paper](https://arxiv.org/abs/2510.11328)\] \[[Code](https://github.com/Aurora-cx/EmotionCircuits-LLM)\]
 
 **Zirui Song\***, Guangxian Ouyang\*, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, **Xiuying Chen**
 (\*: first co-authors)
