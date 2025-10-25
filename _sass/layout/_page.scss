@@ -400,3 +400,63 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Paper box styles for publications */
+.paper-box {
+  display: flex;
+  margin-bottom: 2em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--global-bg-color);
+  
+  @include breakpoint($medium) {
+    flex-direction: row;
+  }
+  
+  @media (max-width: 640px) {
+    flex-direction: column;
+  }
+}
+
+.paper-box-image {
+  flex: 0 0 auto;
+  
+  @include breakpoint($medium) {
+    width: 200px;
+  }
+  
+  @media (max-width: 640px) {
+    width: 100%;
+  }
+  
+  div {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img {
+      border-radius: 4px;
+      object-fit: cover;
+    }
+  }
+}
+
+.paper-box-text {
+  flex: 1;
+  padding: 1em;
+  
+  p {
+    margin-bottom: 0.5em;
+  }
+  
+  a {
+    text-decoration: none;
+    color: var(--global-link-color);
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
