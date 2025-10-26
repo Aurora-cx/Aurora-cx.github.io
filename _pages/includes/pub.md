@@ -68,7 +68,7 @@ Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi 
 
 Saeed Almheiri, Rania Hossam, Mena Attia, **Chenxi Wang**, Preslav Nakov, Timothy Baldwin, Fajri Koto†
 
-[**When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection**](https://arxiv.org/abs/2510.12476) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.12476&color=grey&labelColor=greene)
+[**When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection**](https://arxiv.org/abs/2510.12476) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.12476&color=grey&labelColor=green)
 
 Lang Gao, Xuhui Li, **Chenxi Wang**, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen†
 
