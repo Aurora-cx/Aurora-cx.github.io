@@ -4,7 +4,7 @@
 
 **Education**
 
-- \[09 / 2023  -  Present\] <img src='/files/mbzuai_logo.jpeg' style='width: 1.2em;'> **M.Sc. in Natural Language Processing**, MBZUAI, UAE
+- \[08 / 2024 - 06 / 2026\] <img src='/files/mbzuai_logo.jpeg' style='width: 1.2em;'> **M.Sc. in Natural Language Processing**, MBZUAI, UAE
 - \[09 / 2019 - 06 / 2023\] <img src='/files/xjtu_logo.jpg' style='width: 1.2em;'> **B.Eng. in Computer Science**, Xi'an Jiaotong University, China
 
 **Internship Experience**
