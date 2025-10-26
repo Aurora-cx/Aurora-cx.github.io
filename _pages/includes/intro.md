@@ -1,5 +1,5 @@
 <span class='anchor' id='about-me'></span>
-Hi! I'm Chenxi Wang (Aurora), a second-year M.Sc. student in NLP at [MBZUAI](https://mbzuai.ac.ae/), supervised by [Prof. Xiuying Chen](https://iriscxy.github.io/). Prior to MBZUAI, I got my B.Eng. degree in Computer Science at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/).
+Hi! I'm Chenxi Wang (Aurora), a second-year M.Sc. student in NLP at [MBZUAI](https://mbzuai.ac.ae/), supervised by Prof. [Xiuying Chen](https://iriscxy.github.io/). Prior to MBZUAI, I got my B.Eng. degree in Computer Science at [Xi'an Jiaotong University](https://en.xjtu.edu.cn/).
 
 
 <!-- My research focuses on human-centered AI. I take an **interpretability-first post-training** approach to **“awaken”** latent knowledge and behaviors in pretrained LLMs that are not actively invoked under normal inference. I use interpretability techniques such as circuit discovery and control, subspace analysis, steering vectors, activation patching, and sparse autoencoders, **without additional large-scale pretraining**. -->
