@@ -7,6 +7,8 @@ Reviewer: ICLR 2025, EMNLP 2025.
 ## Volunteer
 - [Add your volunteer experience in academic conferences or events] -->
 
+<span class='anchor' id='miscellaneous'></span>
+
 # 👾 Miscellaneous
 
 Outside research, I enjoy philosophy, history documentaries, and the writings of Borges. I like the calm and timeless way they invite me to think. After long nights in the lab, I often walk to Masdar Park near campus to watch the stars and think about those timeless questions: who we are, where we come from, and where we are going.

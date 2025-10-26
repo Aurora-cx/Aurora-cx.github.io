@@ -10,11 +10,14 @@ main:
   - title: "Publications"
     url: /#publications
 
-  - title: "Experience"
+  - title: "Experiences"
     url: /#experience
 
-  - title: "Service"
+  - title: "Services"
     url: /#service
+  
+  - title: "Miscellaneous"
+    url: /#miscellaneous
     
   # - title: "Blog"
   #   url: /year-archive/
