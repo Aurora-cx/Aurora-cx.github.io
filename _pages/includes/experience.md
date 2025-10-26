@@ -1,24 +1,18 @@
 <span class='anchor' id='experience'></span>
 
-# 💼 Experience
-
-## Research Experience
-
-**Research Assistant** | MBZUAI  
-*Sep 2023 - Present*
-- Working on interpretability and controllability of large language models
-- Focusing on emotion circuits discovery and multilingual reasoning
+# Experience
 
 ## Education
 
-**M.Sc. in Natural Language Processing** | MBZUAI  
-*Sep 2023 - Present*
-- Supervised by Prof. Xiuying Chen
-- GPA: [Your GPA]
+- \[09 / 2023 - Present\] <img src='/files/mbzuai_logo.jpeg' style='width: 1.2em;'> **M.Sc. in Natural Language Processing**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE
+- \[09 / 2019 - 06 / 2023\] <img src='/files/xjtu_logo.png' style='width: 1.2em;'> **B.Eng. in Computer Science**, Xi'an Jiaotong University, Xi'an, China
 
-**B.Eng. in Computer Science** | Xi'an Jiaotong University  
-*Sep 2019 - Jun 2023*
-- Undergraduate thesis ranked first in cohort
+## Internship Experience
+
+- \[06 / 2025 - 08 / 2025\] <img src='/files/pku_logo.png' style='width: 1.2em;'> >Research Intern, State Key Laboratory of General Artificial Intelligence, Peking University(Supervisor: [Prof. Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ))
+- \[03 / 2024 - 09 / 2024\] <img src='/files/tsinghua_logo.jpg' style='width: 1.2em;'>Research Intern, THUNLP Lab, Tsinghua University (Mentor: [Wei Liu](https://thinkwee.top/about/))
+- \[07 / 2023 - 03 / 2024\] <img src='/files/rednote_logo.jpg' style='width: 1.2em;'> NLP Intern, Trust & Safety ML Team, Xiaohongshu (RedNote)
+
+> 🫶🏻 I am deeply grateful to all the mentors and collaborators who have guided and supported me along the way. I’ve learned a great deal from each of them.
 
 ---
-
