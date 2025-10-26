@@ -7,7 +7,7 @@ I value making my work reproducible and open (very much) 🤗.
 
 [**Do LLMs "Feel"? Emotion Circuits Discovery and Control**](https://arxiv.org/abs/2510.11328) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.11328&color=grey&labelColor=green)
 
-**Chenxi Wang**, Yixuan Zhang, Ruiji Yu, Kaiyang Wan, Mingzhe Li, Dequan Yang, Lei Cheng, Zongfang Liu, Yang Xu, Ziyang Ma, Longwei Xu, Peng Li, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen†
+**Chenxi Wang**, Yixuan Zhang, Ruiji Yu, Yufei Zheng, Lang Gao, Zirui Song, Zixiang Xu, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen†
 
 \[[Code](https://github.com/Aurora-cx/EmotionCircuits-LLM)\]
 
@@ -74,7 +74,7 @@ Lang Gao, Xuhui Li, **Chenxi Wang**, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zh
 
 [**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**](https://arxiv.org/abs/2505.15524) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2505.15524&color=grey&labelColor=green)
 
-Lang Gao, Kaiyang Wan, Wei Liu, **Chenxi Wang**, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, Xiuying Chen
+Lang Gao, Kaiyang Wan, Wei Liu, **Chenxi Wang**, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, Xiuying Chen†
 
 [**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2505.16517&color=grey&labelColor=green)
 

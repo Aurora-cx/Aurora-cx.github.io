@@ -17,5 +17,5 @@ These experiences have shaped my taste in research — I hope to do work that ho
 
 ---
 
-*Last updated: January 2025*
+*Last updated: October 2025*
 
