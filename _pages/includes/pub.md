@@ -63,3 +63,20 @@ Wei Liu\*, **Chenxi Wang\***, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, Zhu
 [**DyFlow: Dynamic Workflow Framework for Agentic Reasoning**](https://arxiv.org/abs/2509.26062) ![Static Badge](https://img.shields.io/static/v1?label=NeurIPS&message=2025&color=grey&labelColor=purple)
 
 Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi Wang**, Xiangru Tang, Yue Zhao, Arman Cohan, Xiangliang Zhang, Xiuying Chen†
+
+[**Cross-Cultural Transfer of Commonsense Reasoning in LLMs: Evidence from the Arab World**](https://arxiv.org/abs/2509.19265) ![Static Badge](https://img.shields.io/static/v1?label=EMNLP&message=2025&color=grey&labelColor=blue)
+
+Saeed Almheiri, Rania Hossam, Mena Attia, **Chenxi Wang**, Preslav Nakov, Timothy Baldwin, Fajri Koto†
+
+[**When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection**](https://arxiv.org/abs/2510.12476) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2510.12476&color=grey&labelColor=greene)
+
+Lang Gao, Xuhui Li, **Chenxi Wang**, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zhang, Rui Yan, Preslav Nakov, Xiuying Chen†
+
+[**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**](https://arxiv.org/abs/2505.15524) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2505.15524&color=grey&labelColor=green)
+
+Lang Gao, Kaiyang Wan, Wei Liu, **Chenxi Wang**, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, Xiuying Chen
+
+[**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2505.16517&color=grey&labelColor=green)
+
+Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, **Chenxi Wang**, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen
+
