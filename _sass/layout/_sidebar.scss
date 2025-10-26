@@ -51,7 +51,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-5;
+    font-size: 0.944em;  // 17px on 18px base
     line-height: 1.5;
   }
 
@@ -150,6 +150,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.944em;  // 17px on 18px base
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -260,7 +261,7 @@ p, li {
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 0.944em;  // 17px on 18px base
     text-decoration: none;
 
     &:hover {
