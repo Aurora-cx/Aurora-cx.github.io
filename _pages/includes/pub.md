@@ -16,7 +16,7 @@ I value making my work reproducible and open (very much) 🤗.
 <div class='paper-box'><div class='paper-box-image'><div><img src='/files/babel.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://arxiv.org/abs/2506.16151) ![Static Badge](https://img.shields.io/static/v1?label=EMNLP&message=2025&color=grey&labelColor=blue)
+[**Under the Shadow of Babel: How Language Shapes Reasoning in LLMs**](https://aclanthology.org/2025.findings-emnlp.1321/) ![Static Badge](https://img.shields.io/static/v1?label=EMNLP&message=2025&color=grey&labelColor=blue)
 
 **Chenxi Wang**, Yixuan Zhang, Lang Gao, Zixiang Xu, Zirui Song, Yanbo Wang, Xiuying Chen†
 
@@ -64,7 +64,7 @@ Wei Liu\*, **Chenxi Wang\***, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, Zhu
 
 Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi Wang**, Xiangru Tang, Yue Zhao, Arman Cohan, Xiangliang Zhang, Xiuying Chen†
 
-[**Cross-Cultural Transfer of Commonsense Reasoning in LLMs: Evidence from the Arab World**](https://arxiv.org/abs/2509.19265) ![Static Badge](https://img.shields.io/static/v1?label=EMNLP&message=2025&color=grey&labelColor=blue)
+[**Cross-Cultural Transfer of Commonsense Reasoning in LLMs: Evidence from the Arab World**](https://aclanthology.org/2025.findings-emnlp.247/) ![Static Badge](https://img.shields.io/static/v1?label=EMNLP&message=2025&color=grey&labelColor=blue)
 
 Saeed Almheiri, Rania Hossam, Mena Attia, **Chenxi Wang**, Preslav Nakov, Timothy Baldwin, Fajri Koto†
 
