@@ -17,9 +17,11 @@ I also love traveling. I enjoy exploring cultural landscapes and getting a glimp
 
 These experiences have shaped my taste in research — I hope to do work that holds real value for humanity itself.
 
-## 🌍 Visitor Map
+---
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=d1d0d0&w=a&t=n&d=TSvDthUjYGXy1NTa9xB5GEEiAJzB6lTP75cd02xDhpA&co=f2efe0&cmo=3acc3a&cmn=ff5353&ct=f4efef'></script>
+<div style="text-align: center; transform: scale(0.6); transform-origin: center; margin: -50px 0;">
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=d1d0d0&w=a&t=n&d=TSvDthUjYGXy1NTa9xB5GEEiAJzB6lTP75cd02xDhpA&co=f2efe0&cmo=3acc3a&cmn=ff5353&ct=f4efef'></script>
+</div>
 
 ---
 
