@@ -76,7 +76,7 @@ Lang Gao, Xuhui Li, **Chenxi Wang**, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zh
 
 Lang Gao, Kaiyang Wan, Wei Liu, **Chenxi Wang**, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, Xiuying Chen†
 
-[**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=arXiv&message=2505.16517&color=grey&labelColor=green)
+[**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=AAAI&message=2026&color=grey&labelColor=blue)
 
 Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, **Chenxi Wang**, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen†
 
