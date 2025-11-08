@@ -60,6 +60,10 @@ Wei Liu\*, **Chenxi Wang\***, Yifei Wang, Zihao Xie, Rennai Qiu, Yufan Dang, Zhu
 
 ## 🌈 Recent Co-authored publications
 
+[**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=AAAI&message=2026&color=grey&labelColor=blue)
+
+Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, **Chenxi Wang**, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen†
+
 [**DyFlow: Dynamic Workflow Framework for Agentic Reasoning**](https://arxiv.org/abs/2509.26062) ![Static Badge](https://img.shields.io/static/v1?label=NeurIPS&message=2025&color=grey&labelColor=purple)
 
 Yanbo Wang, Zixiang Xu, Yue Huang, Xiangqi Wang, Zirui Song, Lang Gao, **Chenxi Wang**, Xiangru Tang, Yue Zhao, Arman Cohan, Xiangliang Zhang, Xiuying Chen†
@@ -76,7 +80,5 @@ Lang Gao, Xuhui Li, **Chenxi Wang**, Mingzhe Li, Wei Liu, Zirui Song, Jinghui Zh
 
 Lang Gao, Kaiyang Wan, Wei Liu, **Chenxi Wang**, Zirui Song, Zixiang Xu, Yanbo Wang, Veselin Stoyanov, Xiuying Chen†
 
-[**Maniplvm-r1: Reinforcement learning for reasoning in embodied manipulation with large vision-language models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/static/v1?label=AAAI&message=2026&color=grey&labelColor=blue)
 
-Zirui Song, Guangxian Ouyang, Mingzhe Li, Yuheng Ji, **Chenxi Wang**, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, Qian Jiang, Zhenhao Chen, Zhongzhi Li, Rui Yan, Xiuying Chen†
 
