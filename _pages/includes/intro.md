@@ -9,10 +9,12 @@ Hi! I'm Chenxi Wang (Aurora), a second-year M.Sc. student in NLP at [MBZUAI](htt
 My research focuses on **human-centric AI**.
 Integrating insights from cognitive science, psychology, and philosophy, I use interpretability methods to uncover  the reasoning and affective mechanisms within large language models (LLMs).
 I believe that the knowledge and behaviors exhibited during default inference represent  only a fraction of what these models truly contain.
-To unlock these hidden potentials, I take an interpretability-first post-training approach that awakens latent capabilities which do not spontaneously emerge, enabling models to adaptively activate specific abilities during inference without additional large-scale pretraining.
+<!-- To unlock these hidden potentials, I take an interpretability-first post-training approach that awakens latent capabilities which do not spontaneously emerge, enabling models to adaptively activate specific abilities during inference without additional large-scale pretraining. -->
+To unlock these hidden potentials, I take an interpretability-first post-training approach that awakens latent capabilities which do not spontaneously emerge, enabling models to adaptively express specific skills or reasoning patterns during inference without additional large-scale pretraining.
 Ultimately, my goal is to pave the way for personalized and human-aligned AI, building **a virtuous cycle where human intelligence inspires AI, AI evolves through this understanding, and the progress of AI, in turn, better serves human well-being.**
 
-<mark style="background-color: #FFE4E1; padding: 2px 4px;">🌟 My current work explores <strong>AI that supports and adapts to human emotional needs</strong>, developing explainable, controllable, and personalized emotional-support AI systems that evolve alongside the people they serve.</mark>
+<!-- <mark style="background-color: #FFE4E1; padding: 2px 4px;">🌟 My current work explores <strong>AI that supports and adapts to human emotional needs</strong>, developing explainable, controllable, and personalized emotional-support AI systems that evolve alongside the people they serve.</mark> -->
+<mark style="background-color: #FFE4E1; padding: 2px 4px;">🌟 My current work explores interpretable post-training methods that make LLMs more adaptable, transparent, and cognitively grounded, enabling them to reason, communicate, and align more effectively with diverse human goals.</mark>
 
 I welcome thoughtful discussions on dependency risk, and I’m happy to chat about philosophy of mind and what makes AI feel more human :)
 
